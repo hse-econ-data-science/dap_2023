@@ -24,7 +24,22 @@
 
 ## Домашние задания и контрольные
 
-список будет позже
+
+
+__Полный список необязательных контестов:__
+
+1. [Типы, строки, числа](https://contest.yandex.ru/contest/48080/problems/)
+2. [Условия](https://contest.yandex.ru/contest/48282/problems/)
+3. [Цикл for](https://contest.yandex.ru/contest/48284/problems/)
+4. [Строки и действительные числа](https://contest.yandex.ru/contest/48286/problems/)
+5. [Цикл while](https://contest.yandex.ru/contest/48283/problems/)
+6. [Списки](https://contest.yandex.ru/contest/48285/problems/)
+7. [Функции](https://contest.yandex.ru/contest/48936/problems/)
+8. [Множества](https://contest.yandex.ru/contest/48937/problems/)
+9. [Словари](https://contest.yandex.ru/contest/48938/problems/)
+10. [Сортировка и линейный поиск](https://contest.yandex.ru/contest/48939/problems/)
+11. [Функциональное программирование](https://contest.yandex.ru/contest/48941/problems/)
+12. [Классы](https://contest.yandex.ru/contest/48940/problems/)
 
 
 ## Большой план маленьких побед (будет немного меняться)
